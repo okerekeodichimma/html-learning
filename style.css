@@ -3,7 +3,7 @@
     padding: 0;
     font-family: cursive;
 }
-header div.head h1{
+div.head h1{
     color: white;
     border:5px white solid;
     padding: 10px;
@@ -14,7 +14,7 @@ header div.head h1{
 header img{
     width: 100%;
 }
-header div.head {
+div.head {
     text-align: center;
     background-color: red;
     padding: 20px;
@@ -23,14 +23,14 @@ header div.head {
 background-color: gray;
 text-align: center;
 }
-.nav ul li{
+.nav ul li {
     display: inline-block;
     padding-right: 210px;
     padding-right: 210px;
     padding-top: 20px;
     padding-bottom: 20px;
 }
-.nav ul li a{
+.nav ul li a {
     color:white;
     text-decoration: none;
 }
@@ -64,7 +64,6 @@ text-align: center;
     font-size: 30px;
     text-align: center;
 }
-footer div.head{
-    background-color: red;
-    text-align: center;
+footer div.head h1{
+    border: none;
 }
