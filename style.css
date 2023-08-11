@@ -13,6 +13,7 @@ div.head h1{
 }
 header img{
     width: 100%;
+    border-bottom: 5px red solid;
 }
 div.head {
     text-align: center;
@@ -37,6 +38,7 @@ text-align: center;
 .content{
     text-align: center;
     margin: 50px;
+
 }
 .content h2{
     color: red;
