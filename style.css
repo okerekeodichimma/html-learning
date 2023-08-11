@@ -35,6 +35,12 @@ text-align: center;
     color:white;
     text-decoration: none;
 }
+
+.nav ul li a:hover{
+    color: red;
+    text-decoration: underline;
+} 
+
 .content{
     text-align: center;
     margin: 50px;
